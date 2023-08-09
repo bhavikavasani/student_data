@@ -1,0 +1,91 @@
+{
+    "posts": [
+      {
+        "id": 1,
+        "title": "json-server",
+        "author": "typicode"
+      }
+    ],
+    "studentdetails": [
+      {
+        "firstname": "bhavika ",
+        "lastname": "vasani",
+        "enrollno": "111",
+        "attendence": "Present",
+        "id": 1
+      },
+      {
+        "firstname": "dsfsdg",
+        "lastname": "dgdsgsdg",
+        "enrollno": "2222",
+        "attendence": "Absent",
+        "id": 2
+      },
+      {
+        "firstname": "dgdgd",
+        "lastname": "fgdfgfg",
+        "enrollno": "11222",
+        "attendence": "Absent",
+        "id": 3
+      },
+      {
+        "firstname": "fsfs",
+        "lastname": "dsfsd",
+        "enrollno": "33",
+        "attendence": "Present",
+        "id": 4
+      },
+      {
+        "firstname": "tttre",
+        "lastname": "aa",
+        "enrollno": "444",
+        "attendence": "Absent",
+        "id": 5
+      },
+      {
+        "firstname": "fkdjhjkfdhgkjh",
+        "lastname": "hjhvkdjjdghj",
+        "enrollno": "888",
+        "attendence": "Absent",
+        "id": 6
+      },
+      {
+        "firstname": "gfdfgdf",
+        "lastname": "dgfgfdg",
+        "enrollno": "44444",
+        "attendence": "Absent",
+        "id": 7
+      },
+      {
+        "firstname": "gfgfg",
+        "lastname": "ddffd",
+        "enrollno": "22",
+        "attendence": "Absent",
+        "id": 8
+      },
+      {
+        "firstname": "gfdg",
+        "lastname": "hhghgh",
+        "enrollno": "44",
+        "attendence": "Present",
+        "id": 9
+      },
+      {
+        "firstname": "cxcx",
+        "lastname": "xcxz",
+        "enrollno": "111",
+        "attendence": "Absent",
+        "id": 10
+      }
+    ],
+    "comments": [
+      {
+        "id": 1,
+        "body": "some comment",
+        "postId": 1
+      }
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+  }
